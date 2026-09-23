@@ -2,16 +2,15 @@
 
 **Engineer • Research • Advance • Grow**
 
-We build modern developer tools, open-source software, SaaS products,
-and solutions for the Laravel and JavaScript ecosystem.
+ERAG Technologies builds modern developer tools, open-source software, Laravel and JavaScript packages, SaaS products, and practical solutions designed to improve developer productivity and simplify software development.
 
 ## What We Build
 
 - Laravel Packages
-- Vue.js Packages
+- Vue.js & JavaScript Packages
 - Developer Tools
 - SaaS Products
-- Open Source Software
+- Open-Source Software
 
 ## Connect
 
